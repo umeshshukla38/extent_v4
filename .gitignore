@@ -1,0 +1,10 @@
+.DS_Store
+.classpath
+.factorypath
+.project
+.settings/
+.vscode/
+logs/
+screenshots/
+reports/
+target/
